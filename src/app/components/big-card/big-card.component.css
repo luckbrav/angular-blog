@@ -1,0 +1,38 @@
+.conteiner-big-card{
+
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+
+  width: 25rem;
+  height: 31.25rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.big-card-img > img{
+  width: 100%;
+  min-width: 25rem;
+}
+
+.big-card-date > p {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: #222222
+}
+
+.big-card-post-title > h1  {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.big-card-post-text > p {
+  margin: 1rem 0 0 0;
+}
+
+.big-card-post-text > p > a {
+  color: #444444;
+}
+

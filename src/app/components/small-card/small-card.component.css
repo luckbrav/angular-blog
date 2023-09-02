@@ -1,0 +1,38 @@
+.conteiner-small-card{
+  width: 43.75rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0;
+
+}
+
+.small-card-img > img {
+  width: 12.5rem;
+  min-width: 12.5rem;
+  margin-right: 1.25rem;
+}
+
+.small-card-post-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.small-card-post-title > h1 {
+  font-size: 1rem
+}
+
+.small-card-date > p {
+  font-size: 0.815rem;
+  margin: 0.5rem 0;
+  color: #222222
+}
+
+.container__small-card__separator{
+  margin-top: 0.625rem;
+}
+
+hr {
+  margin: 1rem 0;
+}

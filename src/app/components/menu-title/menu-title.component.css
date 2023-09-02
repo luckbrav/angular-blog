@@ -1,0 +1,12 @@
+.conteiner-menu-title > h1 {
+  color: white;
+  text-align: center;
+  margin: 1rem 0;
+  font-size: 7.5rem;
+  font-family: 'segoe UI';
+  text-transform:uppercase;
+}
+
+.conteiner-menu-title > hr {
+  margin: 1.25rem 0;
+}
