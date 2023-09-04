@@ -25,14 +25,14 @@
 
 .big-card-post-title > h1  {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 2.5rem;
 }
 
-.big-card-post-text > p {
+.big-card-post-desc > p {
   margin: 1rem 0 0 0;
 }
 
-.big-card-post-text > p > a {
+.big-card-post-desc > p > a {
   color: #444444;
 }
 
